@@ -9,7 +9,5 @@ Die Abbildungen können entweder einzeln mit einem beliebigen Tool in das Skript
 ## ToDo
 
 - [x] Kapitel 1
-
 - [ ] Kapitel 2
-
 - [ ] Kapitel 3
